@@ -1,3 +1,4 @@
+## To repozytorium zawiera jedynie zaktualizowane zależności pakietu smsplanet/smsplanet-php-client
 # SMSPLANET PHP Client
 
 ## Wprowadzenie
@@ -20,7 +21,7 @@ Hasło do interfejsu API po rejestracji nowego konta jest takie samo jak hasło 
 
 ### Instalacja pakietu
 
-```composer require smsplanet/smsplanet-php-client```
+```composer require stormcode/smsplanet-php-client```
 
 ### Autoryzacja
 
