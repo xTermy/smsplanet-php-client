@@ -1,5 +1,5 @@
 {
-    "name": "smsplanet/smsplanet-php-client",
+    "name": "stormcode/smsplanet-php-client",
     "description": "Klient SMS API napisany w języku PHP, pozwalający na wysyłanie wiadomości SMS, MMS oraz korzystanie z innych funkcji dostępnych w serwisie SMSPLANET.pl",
     "homepage": "https://github.com/smsplanetpl/smsplanet-php-client",
     "type": "library",
