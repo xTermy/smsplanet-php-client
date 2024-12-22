@@ -5,7 +5,6 @@
     "type": "library",
     "license": "Apache-2.0",
     "keywords": ["api client", "sms", "mms", "smsplanet", "smsplanet.pl"],
-    "version": "1.0.1",
     "authors": [
         {
             "name": "Paweł Feruś",
